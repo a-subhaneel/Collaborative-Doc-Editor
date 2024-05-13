@@ -1,0 +1,6 @@
+@CollaborativeDocEditor.Server_HostAddress = http://localhost:5267
+
+GET {{CollaborativeDocEditor.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
